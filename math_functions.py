@@ -18,4 +18,4 @@ if __name__ == "__main__":
     print("Subtracting:", subtract_numbers(9,2))
     print("Multiplying:", multiply_numbers(2, 3))
     print("Dividing:", divide_numbers(10, 2))
-    print("Miltiplying_fail:", multiply_numberse(2,4))
+    print("Miltiplying_fail:", multiply_numbers(2,4))
